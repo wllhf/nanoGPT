@@ -1,1 +1,1 @@
-# MyNanoGPT
+# My Nano GPT (TensorFlow/Keras)
